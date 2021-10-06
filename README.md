@@ -1,12 +1,11 @@
-### Hi there 👋
-
+![Sander Machado (1)](https://user-images.githubusercontent.com/11708237/136201124-10513815-954c-4263-b6c2-2830a4545ba6.png)
 <!--
 **sandercm/sandercm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-![Sander Machado (1)](https://user-images.githubusercontent.com/11708237/136201124-10513815-954c-4263-b6c2-2830a4545ba6.png)
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
