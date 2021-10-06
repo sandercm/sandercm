@@ -1,5 +1,5 @@
 ![Sander Machado (1)](https://user-images.githubusercontent.com/11708237/136201124-10513815-954c-4263-b6c2-2830a4545ba6.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandercm&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandercm&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
